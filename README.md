@@ -18,7 +18,6 @@ I am a full-stack developer who loves programming.
       <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
       <img alt="WSL" src="https://img.shields.io/badge/-WSL-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
       <img alt="Zsh" src="https://img.shields.io/badge/-Zsh-C5D928?style=for-the-badge&logo=gnu-bash&logoColor=black" />
-      <img alt="Pacman" src="https://img.shields.io/badge/-Pacman-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
     </td>
     <td>
       <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
