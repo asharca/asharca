@@ -6,7 +6,7 @@ I am a full-stack developer who loves programming.
 
 <p align="center">
     <!-- https://wakatime.com/share/embed -->
-  <figure><embed src="https://wakatime.com/share/@646e0ef1-4be0-48ce-9d31-23dba24c7d76/179d62c6-eab0-44f7-843d-83b91ab64262.svg"></embed></figure>
+    <img width="700" src="https://wakatime.com/share/@Xiaokang2022/9e225507-6273-4967-b1c9-409f043a94a5.svg](https://wakatime.com/share/@646e0ef1-4be0-48ce-9d31-23dba24c7d76/179d62c6-eab0-44f7-843d-83b91ab64262.svg" />
 </p>
 
 ## 📊 GitHub Stats
