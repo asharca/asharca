@@ -33,12 +33,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=artibix&theme=default&hide_border=false" />
 </div>
 
-## 🏆 GitHub Profile Trophy
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=artibix&theme=flat&row=1&column=6" />
-</div>
-
 ## 🤝 Connect with Me
 
 <div align="center">
