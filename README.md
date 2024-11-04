@@ -11,17 +11,26 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=artibix&theme=tokyonight&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
-    <img width="400" src="https://streak-stats.demolab.com?user=artibix&theme=tokyonight&hide_border=true" />
-</p>
-
-<h2 align="center">🤝 Connect with Me</h2>
-<p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=artibix&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img width="400" src="https://streak-stats.demolab.com?user=artibix&theme=transparent&hide_border=true" />
+</p>
+
+<h2 align="center">🤝 Connect with Me</h2>
+<p align="center">
+  <a href="mailto:artibix@proton.me">
+    <img alt="ProtonMail" src="https://img.shields.io/badge/-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://artibix.github.io">
+    <img alt="Website" src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/artibix">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <hr>
