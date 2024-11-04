@@ -15,12 +15,6 @@
     <img width="400" src="https://streak-stats.demolab.com?user=artibix&theme=tokyonight&hide_border=true" />
 </p>
 
-<details align="center">
-  <summary>📈 More Stats</summary>
-  <br>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artibix&layout=compact&theme=tokyonight&hide_border=true" />
-</details>
-
 <h2 align="center">🤝 Connect with Me</h2>
 <p align="center">
   <a href="mailto:artibix@proton.me">
@@ -45,9 +39,4 @@
 <!-- Snake animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/artibix/artibix/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<!-- Spotify Now Playing -->
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
 </div>
