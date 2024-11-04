@@ -98,5 +98,7 @@
   <img src="https://img.shields.io/github/stars/artibix?label=Stars&style=for-the-badge&color=blue"/> -->
 </div>
 
-<!-- Fancy Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
