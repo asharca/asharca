@@ -79,24 +79,24 @@
   </a>
 </p>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artibix/artibix/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/artibix/artibix/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/artibix/artibix/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!-- Profile Views -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=artibix&color=blue&style=flat-square&label=Profile+Views" />
-</div>
-
 <!-- Dynamic Quote -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
 </div>
 
-<!-- Footer Banner -->
+<!-- Profile Views -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=2D9EF8&center=true&vCenter=true&repeat=false&width=220&height=20&lines=PROFILE+VIEWS" alt="Profile Views Title" />
+  <br/>
+  <img src="https://profile-counter.glitch.me/artibix/count.svg" alt="Profile Views Count"/>
+  
+  <!-- Alternative Style -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=artibix&style=for-the-badge&color=blue&label=PROFILE+VIEWS"/> -->
+  
+  <!-- Shields.io Style -->
+  <!-- <img src="https://img.shields.io/github/followers/artibix?label=Followers&style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/stars/artibix?label=Stars&style=for-the-badge&color=blue"/> -->
 </div>
+
+<!-- Fancy Separator -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
