@@ -36,7 +36,8 @@
     🚀 Coding Activity
     <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="35"></h2>
 <p align="center">
-    <img width="500" src="https://wakatime.com/share/@646e0ef1-4be0-48ce-9d31-23dba24c7d76/1e3ded4e-6821-4af6-ae60-a61961bdda6b.svg" alt="Wakatime Stats" />
+<!--     <img width="500" src="https://wakatime.com/share/@646e0ef1-4be0-48ce-9d31-23dba24c7d76/1e3ded4e-6821-4af6-ae60-a61961bdda6b.svg" alt="Wakatime Stats" /> -->
+    <img width="500" src="https://wakatime.com/share/@646e0ef1-4be0-48ce-9d31-23dba24c7d76/eb4881c3-df08-4481-afd4-8306cd403719.svg" alt="Wakatime Stats" />
 </p>
 
 <h2 align="center">
