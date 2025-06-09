@@ -26,15 +26,6 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-
-<h2 align="center">
-    🚀 Coding Activity
-    <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="35"></h2>
-<p align="center">
-<!--     <img width="500" src="https://wakatime.com/share/@646e0ef1-4be0-48ce-9d31-23dba24c7d76/1e3ded4e-6821-4af6-ae60-a61961bdda6b.svg" alt="Wakatime Stats" /> -->
-    <img width="500" src="https://wakatime.com/share/@646e0ef1-4be0-48ce-9d31-23dba24c7d76/fc26f0ef-dbd3-4946-8b9c-1c544f65c752.svg" alt="Wakatime Stats" />
-</p>
-
 <h2 align="center">
   📊 GitHub Stats 
   <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NCk1/giphy.gif" width="30">
@@ -55,16 +46,6 @@
   <!-- Activity Graph -->
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=asharca&theme=react-dark&hide_border=true&bg_color=00000000" />
 </details>
-
-<h2 align="center">
-  🤝 Connect with Me
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-</h2>
-
-<!-- Dynamic Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-</div>
 
 <!-- Profile Views -->
 <div align="center">
