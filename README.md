@@ -3,14 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Stay%20Hungry,%20Stay%20Foolish&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Tech%20Enthusiast&descAlignY=55" width="100%" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2D9EF8&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+a+Full-Stack+Developer;Welcome+to+my+Profile!" alt="Typing SVG" />
-</div>
-
-<br>
-
 <!-- Tech Stack -->
 <h2 align="center">
   🛠️ Technologies & Tools
