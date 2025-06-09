@@ -41,8 +41,8 @@
 </h2>
 
 <p align="center">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=artibix&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true&bg_color=00000000" />
-    <img width="400" src="https://streak-stats.demolab.com?user=artibix&theme=transparent&hide_border=true&background=00000000" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=asharca&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true&bg_color=00000000" />
+    <img width="400" src="https://streak-stats.demolab.com?user=asharca&theme=transparent&hide_border=true&background=00000000" />
 </p>
 
 <details align="center">
@@ -50,30 +50,16 @@
   <br>
   
   <!-- Language Stats -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artibix&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharca&layout=compact&theme=transparent&hide_border=true&bg_color=00000000" />
   
   <!-- Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=artibix&theme=react-dark&hide_border=true&bg_color=00000000" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=asharca&theme=react-dark&hide_border=true&bg_color=00000000" />
 </details>
 
 <h2 align="center">
   🤝 Connect with Me
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 </h2>
-
-<p align="center">
-  <a href="mailto:artibix@proton.me">
-    <img alt="ProtonMail" src="https://img.shields.io/badge/-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://artibix.github.io">
-    <img alt="Website" src="https://img.shields.io/badge/-Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/artibix">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
 <!-- Dynamic Quote -->
 <div align="center">
@@ -84,7 +70,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=2D9EF8&center=true&vCenter=true&repeat=false&width=220&height=20&lines=PROFILE+VIEWS" alt="Profile Views Title" />
   <br/>
-  <img src="https://profile-counter.glitch.me/artibix/count.svg" alt="Profile Views Count"/>
+  <img src="https://profile-counter.glitch.me/asharca/count.svg" alt="Profile Views Count"/>
   
   <!-- Alternative Style -->
   <!-- <img src="https://komarev.com/ghpvc/?username=artibix&style=for-the-badge&color=blue&label=PROFILE+VIEWS"/> -->
