@@ -49,9 +49,9 @@
 
 <!-- Profile Views -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=2D9EF8&center=true&vCenter=true&repeat=false&width=220&height=20&lines=PROFILE+VIEWS" alt="Profile Views Title" />
+<!--   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&pause=1000&color=2D9EF8&center=true&vCenter=true&repeat=false&width=220&height=20&lines=PROFILE+VIEWS" alt="Profile Views Title" />
   <br/>
-  <img src="https://profile-counter.glitch.me/asharca/count.svg" alt="Profile Views Count"/>
+  <img src="https://profile-counter.glitch.me/asharca/count.svg" alt="Profile Views Count"/> -->
   
   <!-- Alternative Style -->
   <!-- <img src="https://komarev.com/ghpvc/?username=artibix&style=for-the-badge&color=blue&label=PROFILE+VIEWS"/> -->
